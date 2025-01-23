@@ -1,0 +1,6 @@
+/poetry.lock
+/notebooks/*
+/notebooks/experimental.ipynb
+!notebooks/*NLP.ipynb*
+!notebooks/*Descriptive.ipynb*
+/data/*
